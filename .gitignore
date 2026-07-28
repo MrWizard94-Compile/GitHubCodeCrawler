@@ -1,0 +1,16 @@
+# Generated crawler output, local Python state, and credentials.
+out/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.log
+.vscode/
+.idea/
